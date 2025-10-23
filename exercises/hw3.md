@@ -1,5 +1,6 @@
 # Homework 3
 *Audrey Whitney-Miller*
+**I have gone through course notes, and the chapters to read.**
 
 ## 1. Show how to constructively define the type of trees of elements of type t.
 Tree : Type -> Type
