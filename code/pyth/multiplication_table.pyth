@@ -1,0 +1,5 @@
+FN S10 p j "" m %"%4d" * d N S10
+
+or 
+
+VSTpjkm%"%4d"*dNST
